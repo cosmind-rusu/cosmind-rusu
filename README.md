@@ -55,8 +55,7 @@
 <!-- MICROSOFT AZURE -->
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<!-- AMAZON AWS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  
 <h3>BASES DE DATOS</h3>
 <!-- MYSQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
