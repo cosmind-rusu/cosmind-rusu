@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cosmin</h1>
+<h1 align="center">Hola 👋, Soy Cosmin</h1>
 <h3 align="center">Un joven apasionado de la programación que intenta abarcar un poco de todo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmin016x&label=Profile%20views&color=aa2487&style=flat" alt="cosmin016x" /> </p>
@@ -54,10 +54,9 @@
 <h3>CLOUD</h3>
 <!-- MICROSOFT AZURE -->
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 <!-- AMAZON AWS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <h3>BASES DE DATOS</h3>
 <!-- MYSQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
