@@ -1,11 +1,7 @@
 <h1 align="center">Hola 👋, Soy Cosmin</h1>
 <h3 align="center">Un joven apasionado de la programación que intenta abarcar un poco de todo.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmin016x&label=Profile%20views&color=aa2487&style=flat" alt="cosmin016x" /> </p>
-
-- 🌱 Estoy aprendiendo **Angular, Flutter y algoritmos de sistemas operativos**
-
-- 🔥 FireCorp [https://firecorp.es/](https://firecorp.es/)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmin016x&label=Profile%20views&color=aa2487&style=flat" alt="cosmin016x" /> </p>
 
 <h1 align="left">Sigueme en:</h1>
 <p align="left">
