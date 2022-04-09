@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmin016x&label=Profile%20views&color=aa2487&style=flat" alt="cosmin016x" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cosmiiin_17" target="blank"><img src="https://img.shields.io/twitter/follow/cosmiiin_17?logo=twitter&style=for-the-badge" alt="cosmiiin_17" /></a> </p>
-
 - 🌱 Estoy aprendiendo **Angular, Flutter y algoritmos de sistemas operativos**
 
 - 🔥 FireCorp [https://firecorp.es/](https://firecorp.es/)
