@@ -33,6 +33,6 @@
   <img align="center" alt="Cosmin016X-Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Cosmin016X-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
      
-  ![Snake animation](https://github.com/Cosmin016X/PHP/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Cosmin016X/Cosmin016X/blob/output/github-contribution-grid-snake.svg)
      
 </div>
