@@ -2,8 +2,8 @@
 <h3 align="center">Un joven apasionado de la programación que intenta abarcar un poco de todo.</h3>
 
 <div align = "center">
-     <a href="https://instagram.com/cosmiiin_17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/cosmiiin_17" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+     <a href="https://instagram.com/cosmiiin_18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/cosmiiin_18" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/cosmindanielrusu/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/2D8WR3Udx7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://firecorp.es/" target="_blank"><img src="https://img.shields.io/badge/FireCorp-aa2487?style=for-the-badge&logo=fire&logoColor=white" target="_blank"></a>
