@@ -7,7 +7,7 @@
     <a href="https://discord.gg/2D8WR3Udx7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 </div>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmind-rusux&label=Profile%20views&color=aa2487&style=for-the-badge" alt="Cosmin"</p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmind-rusu&label=Profile%20views&color=aa2487&style=for-the-badge" alt="Cosmin"</p>
 </div>
 
 
