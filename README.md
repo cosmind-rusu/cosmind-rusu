@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Cosmin</h1>
+<h1 align="center">Hola <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, Soy Cosmin</h1>
 <h3 align="center">Un joven apasionado de la programación que intenta abarcar un poco de todo.</h3>
 
 <div align = "center">
