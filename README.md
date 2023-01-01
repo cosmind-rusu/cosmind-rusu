@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, Soy Cosmin</h1>
+<h1 align="center">Hola 👋, Soy Cosmin</h1>
 <h3 align="center">Un joven apasionado de la programación que intenta abarcar un poco de todo.</h3>
 
 <div align = "center">
@@ -10,10 +10,12 @@
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmind-rusu&label=Profile%20views&color=aa2487&style=for-the-badge" alt="Cosmin"</p>
 </div>
 
+
+
 <div align="center">
   <a href="https://github.com/cosmind-rusu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://cosmind-rusu.vercel.app/api/top-langs/?username=cosmind-rusu&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
@@ -23,6 +25,7 @@
   <img align="center" alt="Cosmin-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Cosmin-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Cosmin-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Cosmin-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Cosmin-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Cosmin-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Cosmin-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -30,5 +33,3 @@
   <img align="center" alt="Cosmin-Go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
           
 </div>
-     
-     
