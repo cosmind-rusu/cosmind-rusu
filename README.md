@@ -11,7 +11,6 @@
 </div>
 <div>
      <img src= "https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical">
-     <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=@cosmiiin_18">
 </div>
 
 
