@@ -10,8 +10,6 @@
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmind-rusu&label=Profile%20views&color=aa2487&style=for-the-badge" alt="Cosmin"</p>
 </div>
 
-
-<a href="https://wakatime.com/@e14c5cab-63b7-4e75-8485-9dc7cedea819"><img src="https://wakatime.com/badge/user/e14c5cab-63b7-4e75-8485-9dc7cedea819.svg" alt="Total time coded since Apr 9 2022" /></a>
 <div align="center">
   <a href="https://github.com/cosmind-rusu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
