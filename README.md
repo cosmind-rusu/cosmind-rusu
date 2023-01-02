@@ -12,7 +12,7 @@
 <div>
      <img align="center" src= "https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical">
      <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&theme=radical&hide=css,html&langs_count=8&layout=compact">
-     <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmiiin_18">
+     <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmiiin_18&theme=radical">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;"> <br>
@@ -25,3 +25,5 @@
   <img alt="Cosmin-Ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img alt="Cosmin-Go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">   
 </div>
+
+
