@@ -11,15 +11,13 @@
 </div>
 <div>
      <img src= "https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical">
-     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&layout=compact">
+     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&hide=css,html&langs_count=8&layout=compact">
 </div>
 
 
 
 
 <div aligin="center" style="display: inline_block"><br>
-  <img align="center" alt="Cosmin-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Cosmin-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Cosmin-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Cosmin-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Cosmin-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
