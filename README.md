@@ -9,7 +9,7 @@
 </div>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmind-rusu&label=Profile%20views&color=aa2487&style=for-the-badge" alt="Cosmin"</p>
 </div>
-<div align = "center">
+<div>
      <img src= "https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical">
      <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&theme=radical&hide=css,html&langs_count=8&layout=compact">
 </div>
