@@ -17,9 +17,11 @@
 
 ---
 
+
+| <a href="https://github.com/cosmind-rusu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&theme=radical&hide=css,html&langs_count=8&layout=compact" /></a> |
+| ------------- | ------------- |
+
 <div>
-     <img align="left" src= "https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical">
-     <img align="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&theme=radical&hide=css,html&langs_count=8&layout=compact">
      <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmiiin_18&theme=radical&layout=compact">
 </div>
 
@@ -27,6 +29,7 @@
 <br />
 
 ---
+
 
 ### Sistemas Operativos:
 
