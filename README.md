@@ -55,7 +55,7 @@
 
 <a href="https://www.atlassian.com/es/software/jiraw"> <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;"/>
 
-<a href="https://wordpress.com/es/"> <img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;"/>
+<a href="https://wordpress.com"> <img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;"/>
 
 <a href="https://angular.io/"> <img align="left" alt="Cosmin-Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;"/>
 
