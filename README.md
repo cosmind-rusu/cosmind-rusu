@@ -1,4 +1,6 @@
+
 <h1 align="center">Hola 👋 Soy Cosmin</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmind-rusu&label=Visitas%20&color=aa2487&style=for-the-badge" alt="Cosmin"</p>
 
 ### Sobre mi:
 
@@ -59,13 +61,9 @@
 
 <a href="https://angular.io/"> <img align="left" alt="Cosmin-Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;"/>
 
-<a href="https://sass-lang.com/"> <img align="left" alt="Cosmin-Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/>
-
 <a href="https://www.ecma-international.org/"> <img align="left" alt="Cosmin-JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 
 <a href="https://getbootstrap.com/"> <img align="left" alt="Cosmin-Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;"/>
-
-<a href="https://www.php.net/"> <img align="left" alt="Cosmin-php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;"/>
 
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/"> <img align="left" alt="Cosmin-C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
 
@@ -74,4 +72,4 @@
 <a href="https://go.dev"> <img align="left" alt="Cosmin-Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmind-rusu&label=Visitas%20&color=aa2487&style=for-the-badge" alt="Cosmin"</p>
+
