@@ -27,6 +27,7 @@
      <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmiiin_18&theme=radical&layout=compact">
 </div>
 
+
 <br />
 <br />
 
@@ -70,6 +71,3 @@
 <a href="https://www.ruby-lang.org"> <img align="left" alt="Cosmin-Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" style="padding-right:10px;"/>
 
 <a href="https://go.dev"> <img align="left" alt="Cosmin-Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;"/>
-
-
-
