@@ -1,6 +1,7 @@
 
 <h1 align="center">Hola 👋 Soy Cosmin</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cosmind-rusu&label=Visitas%20&color=aa2487&style=for-the-badge" alt="Cosmin"</p>
+<a href="https://wakatime.com/@cosmiiin_18" target="_blank"><img src="https://wakatime.com/badge/user/e14c5cab-63b7-4e75-8485-9dc7cedea819.svg?style=for-the-badge" alt="wakatime"></a>
 
 ### Sobre mi:
 
