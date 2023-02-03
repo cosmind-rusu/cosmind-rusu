@@ -8,7 +8,7 @@
 - 🖥 Apasionado de las nuevas tecnologias
 - 📚 Nunca paro de aprender
 - ⚙️ Siempre busco el mejor camino
-- 🌐 Iniciando en Web3
+- 🧠 Iniciando en Deep Learning
 - 🤣 Fun fact: Me gustan las patatitas
 
 ### Contactame:
