@@ -55,7 +55,7 @@
 
 <a href="https://git-scm.com/"> <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 
-<a href="https://cloud.google.com"> <img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;"/>
+<a href="https://azure.microsoft.com/"> <img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;"/>
 
 <a href="https://www.atlassian.com/es/software/jiraw"> <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;"/>
 
