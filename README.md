@@ -25,7 +25,7 @@
 | ------------- | ------------- |
 
 <div>
-     <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmiiin_18&theme=radical&layout=compact">
+     <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmiiin18&theme=radical&layout=compact">
 </div>
 
 
