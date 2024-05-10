@@ -15,16 +15,16 @@
 
 <a href="https://www.linkedin.com/in/cosmind-rusu/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/2D8WR3Udx7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/cosmiiin_18" target="_blank"><img src="https://img.shields.io/badge/Twitter-1a8cd8?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1a8cd8?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 ---
 
 
-| <a href="https://github.com/cosmind-rusu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&theme=radical&hide=css,html&langs_count=8&layout=compact" /></a> |
+| <a href="https://github.com/cosmind-rusu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical" alt="Cosmin Daniel Rusu" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&theme=radical&hide=css,html&langs_count=8&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <div>
-     <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmiiin18&theme=radical&layout=compact">
+     <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmindrusu8&theme=radical&layout=compact">
 </div>
 
 
