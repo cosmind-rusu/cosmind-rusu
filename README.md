@@ -54,6 +54,8 @@
      
 <a href="https://www.kubernetes.io/"> <img align="left" alt="k8s" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;"/>
 
+<a href="https://www.redhat.com/"> <img align="left" alt="Red Hat OpenShift" width="26px" src="https://www.svgrepo.com/show/354143/openshift.svg" style="padding-right:10px;"/>
+
 <a href="https://git-scm.com/"> <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 
 <a href="https://azure.microsoft.com/"> <img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;"/>
