@@ -20,20 +20,6 @@
 ---
 
 
-| <a href="https://github.com/cosmind-rusu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmind-rusu&show_icons=true&theme=radical" alt="Cosmin Daniel Rusu" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cosmind-rusu&theme=radical&hide=css,html&langs_count=8&layout=compact" /></a> |
-| ------------- | ------------- |
-
-<div>
-     <img align="center" src= "https://github-readme-stats.vercel.app/api/wakatime?username=cosmindrusu&theme=radical&layout=compact">
-</div>
-
-
-<br />
-<br />
-
----
-
-
 ### Sistemas Operativos:
 
 <a href="https://www.microsoft.com/es-es/software-download/windows10"> <img align="left" alt="Windows 10" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;"/>
