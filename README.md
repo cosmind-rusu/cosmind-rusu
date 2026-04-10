@@ -102,37 +102,42 @@
 
 ## 🚀 Proyectos Actuales
 
-### 🌐 [cdrusu.com](https://cdrusu.com)
-<img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
-
-Mi marca personal y estudio freelance, enfocado en desarrollar soluciones tecnológicas modernas, útiles y orientadas a negocio.
-
----
-
-### 🎨 [epicpencil.es](https://epicpencil.es)
-<img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
-
-Herramienta de dibujo digital ligera y potente, creada como una alternativa directa a EpicPen con foco en productividad y simplicidad.
-
----
-
-### 🛡 [shieldguard.app](https://shieldguard.app)
-<img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
-
-Bot de seguridad para Discord especializado en protección anti-raid, moderación automática y vigilancia constante para tu comunidad.
-
----
-
-### 🧠 [min.cdrusu.com](https://min.cdrusu.com)
-<img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
-
-Tu mini cerebro digital y bloc de notas inteligente: recuerda información, organiza ideas y te ayuda a agilizar el día a día.
-
----
-
-### ⚡ [optipress.cdrusu.com](https://optipress.cdrusu.com)
-<img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
-
-Herramienta de optimización de imágenes en local con WebAssembly, diseñada para ofrecer privacidad, velocidad y eficiencia sin depender de la nube.
+<table>
+  <tr>
+    <td>
+      <h3>🌐 <a href="https://cdrusu.com">cdrusu.com</a></h3>
+      <img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
+      <p>Mi marca personal y estudio freelance, enfocado en desarrollar soluciones tecnológicas modernas, útiles y orientadas a negocio.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎨 <a href="https://epicpencil.es">epicpencil.es</a></h3>
+      <img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
+      <p>Herramienta de dibujo digital ligera y potente, creada como una alternativa directa a EpicPen con foco en productividad y simplicidad.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🛡 <a href="https://shieldguard.app">shieldguard.app</a></h3>
+      <img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
+      <p>Bot de seguridad para Discord especializado en protección anti-raid, moderación automática y vigilancia constante para tu comunidad.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🧠 <a href="https://min.cdrusu.com">min.cdrusu.com</a></h3>
+      <img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
+      <p>Tu mini cerebro digital y bloc de notas inteligente: recuerda información, organiza ideas y te ayuda a agilizar el día a día.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⚡ <a href="https://optipress.cdrusu.com">optipress.cdrusu.com</a></h3>
+      <img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
+      <p>Herramienta de optimización de imágenes en local con WebAssembly, diseñada para ofrecer privacidad, velocidad y eficiencia sin depender de la nube.</p>
+    </td>
+  </tr>
+</table>
 
 ---
