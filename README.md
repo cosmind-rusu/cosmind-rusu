@@ -117,6 +117,12 @@ Bot de seguridad para Discord especializado en protección anti-raid, moderació
 
 ---
 
+### ⚡ [optipress.cdrusu.com](https://optipress.cdrusu.com)
+
+Herramienta de optimización de imágenes en local con WebAssembly, diseñada para ofrecer privacidad, velocidad y eficiencia sin depender de la nube.
+
+---
+
 ### 🧠 [min.cdrusu.com](https://min.cdrusu.com)
 <img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
 
@@ -124,9 +130,3 @@ Tu mini cerebro digital y bloc de notas inteligente: recuerda información, orga
 
 ---
 
-### ⚡ [optipress.cdrusu.com](https://optipress.cdrusu.com)
-<img src="https://img.shields.io/badge/En%20desarrollo-a078ff?style=for-the-badge" alt="En desarrollo" />
-
-Herramienta de optimización de imágenes en local con WebAssembly, diseñada para ofrecer privacidad, velocidad y eficiencia sin depender de la nube.
-
----
